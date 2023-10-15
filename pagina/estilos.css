@@ -1,0 +1,60 @@
+body{
+    background-color: coral;
+    font-family: 'roboto' , sans-serif;
+    
+    }
+h1{
+text-align: center;
+
+}
+    p{
+        color:white;
+        /* font-size: 24px; */
+    }
+
+   div h2{
+color: aqua;
+
+   }
+
+/* IDs y clases */
+/* IDs son unicos por elmento pero las clases son repetidas */
+
+
+#shaco-m{
+    color: blue;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.parrafo{
+    color: chartreuse;
+    font-style: italic;
+}
+
+a, img{
+    display: block;
+
+}
+
+a{
+margin: 50px 20px;
+text-decoration: none;
+color: black;
+
+}
+
+a:hover{
+    color: green;
+}
+
+img{
+width: 70%;
+margin: auto;
+
+}
+
+
+
+
+
